@@ -1,0 +1,7 @@
+GET http://lab01.webprojects.test
+###
+
+GET http://lab01.webprojects.test/test.html
+###
+
+HEAD http://lab01.webprojects.test/test.html
